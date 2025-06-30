@@ -33,8 +33,14 @@
 
 ## Screenshots
 
-![Main screen](screenshots/webview.png)
-![Add Task](screenshots/smatphoneview.png)
+<img src="screenshots/main.png"/>
+<img src="screenshots/add-task.png" width="400" />
+
+---
+
+## Live Demo
+
+[👉 Посмотреть онлайн](https://Yudjin77.github.io/todo_frontend/)
 
 ---
 
