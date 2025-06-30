@@ -31,6 +31,13 @@
 
 ---
 
+## Screenshots
+
+![Main screen](screenshots/main.png)
+![Add Task](screenshots/add-task.png)
+
+---
+
 ## Запуск проекта локально
 
 1. Клонируйте репозиторий  
