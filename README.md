@@ -33,8 +33,8 @@
 
 ## Screenshots
 
-![Main screen](screenshots/main.png)
-![Add Task](screenshots/add-task.png)
+![Main screen](screenshots/webview.png)
+![Add Task](screenshots/smatphoneview.png)
 
 ---
 
