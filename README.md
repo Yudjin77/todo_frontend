@@ -33,8 +33,8 @@
 
 ## Screenshots
 
-<img src="screenshots/main.png"/>
-<img src="screenshots/add-task.png" width="400" />
+![Main screen](screenshots/webview.png)
+![Add Task](screenshots/smartphoneview.png)
 
 ---
 
@@ -49,3 +49,4 @@
 1. Клонируйте репозиторий  
 ```bash
 git clone https://github.com/yourusername/todo-app.git
+```
